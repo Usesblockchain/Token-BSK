@@ -1,0 +1,12 @@
+{
+  "name": "Baby Shark",
+  "symbol": "BSk",
+  "uri": "https://indigo-cheap-louse-846.mypinata.cloud/ipfs/QmPcGdPrgY668udXiU1Ep2HxbePxh6KZMfnPxYc98459uu",
+  "seller_fee_basis_points": 500,
+  "creators": [
+    {
+      "address": "YourCreatorAddress",
+      "share": 100
+    }
+  ]
+}
